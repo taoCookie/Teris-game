@@ -19,6 +19,6 @@
     "author": "yuanjin <yuanjinmoke@gmail.com>",
     "license": "MIT",
     "dependencies": {
-        "jquery": "^3.4.0"
+        "jquery": "^3.5.0"
     }
 }
